@@ -1,12 +1,36 @@
 
-# 后续更新
+# Hackintosh-i7-12700F-B660-MORTAR-WIFI
+## 2024014
+应该是最后一次升级黑苹果了，黑苹果的生涯要结束喽
+
+### 参数信息
+|Bootloader|	Version	| Boot Mode|	SMBIOS|	macOS|	Version
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| OpenCore |	0.9.6|	UEFI|	MacPro7,1	| Ventura |	13.6.3	
+### 升级信息
+
+1. 升级osx13.6.3 
+2. 升级opencore9.6 
+
+### 效果图
+![mac info](./docs/20240114-this-mac.png)
+所有核心都正常工作
+
+![cpu](./docs/20140114-cpu.png)
+
+geekbech5 跑分
+![geekbech5](./docs/202040114-geekbench-5.png)
+
+geekbech6 跑分
+![geekbech6](./docs/202040114-geekbench-6.png)
+
 ## 20230618
 1. 升级osx13.4 
 2. 升级opencore9.2 
 3. 显卡啸叫降频处理 [参考](https://zhuanlan.zhihu.com/p/629023610?utm_id=0
 )
-# Hackintosh-i7-12700F-B660-MORTAR-WIFI
 
+## fisrt hackintosh
 |Bootloader|	Version	| Boot Mode|	SMBIOS|	macOS|	Version
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | OpenCore |	0.8.8|	UEFI|	MacPro7,1	| Ventura |	13.2.1	
@@ -32,10 +56,10 @@
 
 ## 相关测试图
 
-![alt mac info](https://github.com/wwwpalmercom/Hackintosh-i7-12700F-B660-MORTAR-WIFI/blob/main/docs/mac-info.png)
-![alt mac info](https://github.com/wwwpalmercom/Hackintosh-i7-12700F-B660-MORTAR-WIFI/blob/main/docs/cpu.png)
+![alt mac info](./docs/mac-info.png)
+![alt mac info](./docs/cpu.png)
 ![alt mac info](https://github.com/wwwpalmercom/Hackintosh-i7-12700F-B660-MORTAR-WIFI/blob/main/docs/metal.png)
-![alt mac info](https://github.com/wwwpalmercom/Hackintosh-i7-12700F-B660-MORTAR-WIFI/blob/main/docs/opencl.png)
-![alt mac info](https://github.com/wwwpalmercom/Hackintosh-i7-12700F-B660-MORTAR-WIFI/blob/main/docs/gadget01.png)
-![alt mac info](https://github.com/wwwpalmercom/Hackintosh-i7-12700F-B660-MORTAR-WIFI/blob/main/docs/gadget02.png)
+![alt mac info](./docs/opencl.png)
+![alt mac info](./docs/gadget01.png)
+![alt mac info](./docs/gadget02.png)
 
