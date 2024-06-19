@@ -1,5 +1,8 @@
 
 # Hackintosh-i7-12700F-B660-MORTAR-WIFI
+## 20240619
+[RTC 唤醒处理](https://blog.csdn.net/palmer_kai/article/details/139638326)
+
 ## 2024014
 应该是最后一次升级黑苹果了，黑苹果的生涯要结束喽
 
