@@ -1,5 +1,9 @@
 
 # Hackintosh-i7-12700F-B660-MORTAR-WIFI
+## 20240629
+
+[Hackintosh-i7-12700F-B660-MORTAR-WIFI升级macos14 Sonoma](https://blog.csdn.net/palmer_kai/article/details/140063267)
+
 ## 20240619
 [RTC 唤醒处理](https://blog.csdn.net/palmer_kai/article/details/139638326)
 
